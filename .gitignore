@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+data/raw/*
+data/processed/*
+chroma_db/
+fashion_env/
+.DS_Store
+.ipynb_checkpoints
